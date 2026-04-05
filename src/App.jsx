@@ -667,7 +667,7 @@ export default function App() {
           <div className="hero-card">
             <section className="hero-copy">
               <div className="brand-row">
-                <div className="logo-mark"><img src="/LOGO.jpeg" alt="Logo" /></div>
+                <div className="logo-mark"><img src="/Colorbit-Logo-1.png" alt="Logo" /></div>
                 <div className="eyebrow">{lang.eyebrow}</div>
               </div>
               <h1>{lang.heroTitle}</h1>
